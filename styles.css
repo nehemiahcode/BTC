@@ -299,15 +299,20 @@
   text-align: center;
   font-size: 29px;
   font-weight: 500;
+    padding-left:0.5rem;
+       padding-right:0.5rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .column1 h2 span {
   font-weight: 700;
+     padding-left:0.5rem;
+       padding-right:0.5rem;
 }
 .column1  p {
   font-size: 20px;
   color: #000000;
-   padding-left: 1rem 0 0 1rem ;
+   padding-left: 0.5rem;
+     padding-right:0.5rem;
   text-align: center;
   line-height: 25px;
 }
