@@ -1,4 +1,5 @@
-* {
+
+ * {
     box-sizing: border-box;
   }
   
@@ -298,7 +299,7 @@
   text-align: center;
   font-size: 29px;
   font-weight: 500;
-  padding:0 4rem 0 4rem;
+  padding:0 1rem 0 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .column1 h2 span {
@@ -307,7 +308,7 @@
 .column1  p {
   font-size: 20px;
   color: #000000;
-  padding:0.5rem 3rem 0 3rem;
+   padding-left: 0.5rem 0 0 0.5rem ;
   text-align: center;
   line-height: 25px;
   margin: 0 0 2rem 0;
@@ -407,6 +408,10 @@
   border: 1px solid white;
   font-size: 17px;
   font-weight: 400;
+}
+.col1 p {
+  padding-left: 1rem;
+  padding-right: 0.6rem;
 }
 .col1 button:hover {
   border-radius: 10px;
@@ -587,7 +592,8 @@ input {
   width:300px;
   height:60px;
   outline: none;
-  margin-left: 1.5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   padding: 1rem;
   font-size: 20px;
   margin-top: 1rem;
